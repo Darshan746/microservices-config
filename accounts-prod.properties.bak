@@ -7,5 +7,5 @@ accounts.mailDetails.from=prod-accounts@eazybytes.com
 accounts.mailDetails.subject=Your Account Details from Eazy Bank Production Environment
 
 accounts.activeBranches[0]=Hyderabad
-accounts.activeBranches[1]=Paris,Europe
+accounts.activeBranches[1]=Paris,Urope
 accounts.activeBranches[2]=NewYork
